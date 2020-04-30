@@ -5,10 +5,10 @@ use ADMM pruning and knowledge distillation to compress and adversarial training
   
 CPSC-8570 Spring 2020
 
-Lei Zheng:
+Lei Zheng: Explores a new method to adversarially train a model with small size and then prunes nodes on the first fully connected layer
 Yuxin Cui: Apply adversarial training and knowledge distillation compression on MNIST
-Rui Cao:
-Huixin Deng:
+Rui Cao: Explored the GAN in model compression algorithms. He duplicated the GAN-TSC model in cifar 10 dataset and did adversarial training in the original model.
+Huixin Deng: Trained model and make the video of the demo.
 
 Team Project: Adversarial Robust Model Compression
 

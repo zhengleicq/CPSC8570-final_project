@@ -2,3 +2,10 @@ tensorflow==1.14
 tensorflow-gpu==1.14
 numpy==1.16.1
 keras==2.2.4
+torch
+torchvision
+tensorboard
+pyyaml
+scipy
+sklearn
+pathlib2
